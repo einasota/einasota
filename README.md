@@ -1,8 +1,5 @@
 ### Hi there 👋, i'm Jhonata
 
-<!--
-**einasota/einasota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web develop 
@@ -11,4 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with new technologies
 - 💬 Ask me about anything
 - 📫 How to reach me: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/einasota)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonata-souza-132801181/)]
--->![Jhonata Souza's Github Status](https://github-readme-stats.vercel.app/api?username=einasota&show_icons=true)
+![Jhonata Souza's Github Status](https://github-readme-stats.vercel.app/api?username=einasota&show_icons=true)
