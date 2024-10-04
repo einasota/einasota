@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/einasota)
 
 ![Jhonata Souza's Github Status](https://github-readme-stats.vercel.app/api?username=einasota&show_icons=true)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6560f3415145316d25696d2c?variant=dark&roadmaps=backend%2Cdocker%2Cgolang%2Csql)](https://roadmap.sh)
