@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on web develop 
-- 🌱 I’m currently learning web develop
+- 🔭 I’m currently working on back-end develop 
+- 🌱 I’m currently learning back-end develop
 - 👯 I’m looking to collaborate on innovative and challenging projects
 - 🤔 I’m looking for help with new technologies
 - 💬 Ask me about anything
