@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 ![Jhonata Souza's Github Status](https://github-readme-stats.vercel.app/api?username=einasota&show_icons=true)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6560f3415145316d25696d2c?variant=dark&roadmaps=backend%2Cdocker%2Cgolang%2Csql)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6560f3415145316d25696d2c?variant=dark&roadmaps=backend%2Ctypescript%2Cdocker%2Cnodejs)](https://roadmap.sh)
